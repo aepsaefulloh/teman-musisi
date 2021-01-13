@@ -17,7 +17,7 @@
                     <div class="col-xs-b5"></div>
                   </div>
                   <div data-swiper-parallax-x="-500">
-                    <h1 class="h1">smartphone x transform</h1>
+                    <h1 class="h1">New Arrival Gear</h1>
                     <div class="title-underline left"><span></span></div>
                   </div>
                   <div data-swiper-parallax-x="-400">
